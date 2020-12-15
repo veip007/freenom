@@ -1,3 +1,15 @@
+直接注册freenom会发现已经不能注册了，下面的技巧，可以帮到不会的人：
+
+打开主页：https://www.freenom.com/
+
+下拉到最底部，找到开发人员，点击
+
+然后新的页面，下拉，看到绿色条状写着：今天就获得一个随机的域账户
+
+点击，新页面，左下方，输入邮箱，点Verify My Email Address
+
+到邮箱去验证吧！
+
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
 
